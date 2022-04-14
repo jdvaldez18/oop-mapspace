@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^11.13.7",
-    "async": "2.6.2",
+    "async": "3.2.2",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
     "cookie-parser": "^1.4.4",
